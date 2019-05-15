@@ -96,7 +96,7 @@ public void checkbox()
 
         [TearDown]
         public void closeBrowser()
-        {
+        {;;
 
             Thread.Sleep(5000);
             driver.Close();
