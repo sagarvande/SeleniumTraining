@@ -1,0 +1,14 @@
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\bin\Debug\netcoreapp2.2\Demoproject.deps.json
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\bin\Debug\netcoreapp2.2\Demoproject.dll
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\obj\Debug\netcoreapp2.2\Demoproject.csproj.CoreCompileInputs.cache
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\obj\Debug\netcoreapp2.2\Demoproject.AssemblyInfoInputs.cache
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\obj\Debug\netcoreapp2.2\Demoproject.AssemblyInfo.cs
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\bin\Debug\netcoreapp2.2\Demoproject.pdb
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\obj\Debug\netcoreapp2.2\Demoproject.dll
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\obj\Debug\netcoreapp2.2\Demoproject.pdb
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\bin\Debug\netcoreapp2.2\Demoproject.runtimeconfig.json
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\bin\Debug\netcoreapp2.2\Demoproject.runtimeconfig.dev.json
+C:\Users\Sagar.vande\source\repos\Demoproject\Demoproject\obj\Debug\netcoreapp2.2\Demoproject.csprojAssemblyReference.cache
